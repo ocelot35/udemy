@@ -1,5 +1,3 @@
-test pull
-test Fetch
 kikou
 re kikou
 
